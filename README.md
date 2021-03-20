@@ -13,4 +13,10 @@
 
 >문단 모양이 된거죠.
 
+
+```
+코드 블럭 안
+```
+* * *
+
 <img width="" height="" src="./picture/말티푸.jpg"></img>
